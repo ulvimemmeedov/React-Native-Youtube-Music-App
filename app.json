@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "musicapp",
-    "slug": "musicapp",
+    "name": "Ulvi's PlayList",
+    "slug": "PlayList",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,3 +30,5 @@
     }
   }
 }
+
+
